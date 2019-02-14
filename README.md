@@ -3,7 +3,7 @@ An Api for managing sms
 
 > API hosted on heroku: [API](https://sms-mgt.herokuapp.com/)
 
-> Documentation for API: [Here](https://documenter.getpostman.com/view/2091261/RztrJ6HE) 
+> Documentation for API: [Here](https://documenter.getpostman.com/view/2091261/Rztso6Tn) 
 
 ### Features
 - A user can create a contact
